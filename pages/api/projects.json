@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Git Chest",
-    "image": "https://raw.githubusercontent.com/jungby/Braillenius/master/Images/banner.png",
+    "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/travolta-confundido-el-meme-del-momento/86630754-1-esl-ES/Travolta-confundido-el-meme-del-momento.jpg",
     "description": "Centralized repository system for the storage of software projects at the Autonomous University of Bucaramanga",
     "tags": ["golang", "azure services", "mariadb"],
     "demo": "https://www.pcbcupid.com/"
@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "Braillenius",
-    "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/travolta-confundido-el-meme-del-momento/86630754-1-esl-ES/Travolta-confundido-el-meme-del-momento.jpg",
+    "image": "https://raw.githubusercontent.com/jungby/Braillenius/master/Images/banner.png",
     "description": "Braille translator using Python and OpenScad.",
     "tags": ["python", "openscad", "pyqt5"],
     "source_code": "https://github.com/jungby/Braillenius",
