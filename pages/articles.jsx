@@ -7,7 +7,7 @@ const ArticlesPage = ({ articles }) => {
       <h3>
         Recent Posts from{' '}
         <a
-          href="https://dev.to/itsnitinr"
+          href="https://dev.to/DEVTOUSER"
           target="_blank"
           rel="noopener"
           className={styles.underline}

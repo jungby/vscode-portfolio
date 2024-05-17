@@ -9,6 +9,38 @@
 }
 
 /* Tags */
+/*              CUSTOM TAGS             */
+.python {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.python:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.openscad {
+  border: 2px solid rgb(227, 255, 65);
+}
+.openscad:hover {
+  background: rgba(103, 255, 65, 0.25);
+}
+
+.pyqt5 {
+  border: 0.1rem solid rgb(79, 205, 41);
+}
+.pyqt5:hover {
+  background: rgba(60, 205, 41, 0.25);
+}
+
+.api-restful {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.api-restful:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+/*                                         */
+
+
 .react {
   border: 0.1rem solid rgb(97, 218, 251);
 }

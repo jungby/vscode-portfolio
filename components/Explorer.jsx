@@ -6,30 +6,30 @@ import styles from '../styles/Explorer.module.css';
 
 const explorerItems = [
   {
-    name: 'home.jsx',
+    name: 'home.go',
     path: '/',
-    icon: 'react_icon.svg',
+    icon: 'golang_icon.svg',
   },
   {
-    name: 'about.html',
+    name: 'about.sh',
     path: '/about',
-    icon: 'html_icon.svg',
+    icon: 'bash_icon.svg',
   },
   {
-    name: 'contact.css',
+    name: 'contact.py',
     path: '/contact',
-    icon: 'css_icon.svg',
+    icon: 'python_icon.svg',
   },
   {
     name: 'projects.js',
     path: '/projects',
     icon: 'js_icon.svg',
   },
-  {
-    name: 'articles.json',
-    path: '/articles',
-    icon: 'json_icon.svg',
-  },
+  // {
+  //   name: 'articles.json',
+  //   path: '/articles',
+  //   icon: 'json_icon.svg',
+  // },
   {
     name: 'github.md',
     path: '/github',

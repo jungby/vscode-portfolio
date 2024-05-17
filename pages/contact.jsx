@@ -16,7 +16,7 @@ const ContactPage = () => {
       body: JSON.stringify({ name, email, subject, message }),
     });
     if (res.ok) {
-      alert('Your response has been received!');
+      alert('Sent!');
       setName('');
       setEmail('');
       setSubject('');
@@ -29,11 +29,11 @@ const ContactPage = () => {
   return (
     <div className={styles.container}>
       <div>
-        <h3 className={styles.heading}>Reach Out Via Socials</h3>
+        <h3 className={styles.heading}> &#62;&#62;&#62; you can find me here</h3>
         <ContactCode />
       </div>
       <div>
-        <h3 className={styles.heading}>Or Fill Out This Form</h3>
+        <h3 className={styles.heading}>or just fill out this form</h3>
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
             <div>
