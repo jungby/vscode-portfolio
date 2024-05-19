@@ -30,3 +30,23 @@
     line-height: 1.5rem;
   }
 }
+
+.codeBracket {
+  color: var(--code-bracket);
+}
+
+.codeItem {
+  color: var(--code-item);
+}
+
+.codeValue {
+  color: var(--code-value);
+}
+
+.codeOperator {
+  color: var(--code-operator);
+}
+
+.codeVariable {
+  color: var(--code-textcolor);
+}

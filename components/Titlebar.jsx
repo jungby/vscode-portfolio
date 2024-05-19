@@ -15,6 +15,7 @@ const Titlebar = () => {
         <p>File</p>
         <p>Edit</p>
         <p>View</p>
+        <p>Selection</p>
         <p>Go</p>
         <p>Run</p>
         <p>Terminal</p>

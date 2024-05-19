@@ -7,6 +7,13 @@ const SettingsPage = () => {
       <h2>Manage Themes</h2>
       <div className={styles.container}>
         <ThemeInfo
+          name="Catppuccin Mocha"
+          icon="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png"
+          publisher="Catppuccin"
+          theme="catppuccin-mocha"
+          description="Soothing pastel theme for the high-spirited!"
+        />
+        <ThemeInfo
           name="GitHub Dark"
           icon="/github-dark.png"
           publisher="GitHub"
@@ -41,13 +48,14 @@ const SettingsPage = () => {
           theme="nord"
           description="An arctic, north-bluish clean and elegant Visual Studio Code theme."
         />
-        <ThemeInfo
+        {/* Commented due to its lack of accessibility */}
+        {/* <ThemeInfo
           name="Night Owl"
           icon="/night-owl.png"
           publisher="sarah.drasner"
           theme="night-owl"
           description="A VS Code theme for the night owls out there."
-        />
+        /> */}
       </div>
     </>
   );

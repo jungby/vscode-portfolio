@@ -2,27 +2,27 @@
   {
     "id": 1,
     "name": "Git Chest",
-    "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/travolta-confundido-el-meme-del-momento/86630754-1-esl-ES/Travolta-confundido-el-meme-del-momento.jpg",
+    "image": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp",
     "description": "Centralized repository system for the storage of software projects at the Autonomous University of Bucaramanga",
-    "tags": ["golang", "azure services", "mariadb"],
-    "demo": "https://www.pcbcupid.com/"
+    "tags": ["golang", "azure-services", "mariadb"],
+    "demo": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp"
   },  
   {
     "id": 2,
     "name": "Bus Unab",
-    "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/travolta-confundido-el-meme-del-momento/86630754-1-esl-ES/Travolta-confundido-el-meme-del-momento.jpg",
+    "image": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp",
     "description": "Android application that tracks the Autonomous University of Bucaramanga's bus, displaying various stops and real-time location",
-    "tags": ["android studio", "java", "django", "python"],
-    "demo": "https://www.pcbcupid.com/"
+    "tags": ["android-studio", "java", "django", "python"],
+    "demo": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp"
   },
   {
     "id": 3,
     "name": "AlbionMarketPortable",
-    "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/travolta-confundido-el-meme-del-momento/86630754-1-esl-ES/Travolta-confundido-el-meme-del-momento.jpg",
+    "image": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp",
     "description": "Desktop app that provides real-time price information for items in the game Albion Online.",
     "tags": ["python", "mongodb", "api-restful", "pyqt5"],
     "source_code": "https://github.com/jungby/AlbionMarketPortable",
-    "demo": "https://www.pcbcupid.com/"
+    "demo": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp"
   },
   {
     "id": 4,
@@ -31,14 +31,14 @@
     "description": "Braille translator using Python and OpenScad.",
     "tags": ["python", "openscad", "pyqt5"],
     "source_code": "https://github.com/jungby/Braillenius",
-    "demo": "https://www.pcbcupid.com/"
+    "demo": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp"
   },
   {
     "id": 5,
     "name": "Dino_Math",
-    "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/travolta-confundido-el-meme-del-momento/86630754-1-esl-ES/Travolta-confundido-el-meme-del-momento.jpg",
+    "image": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp",
     "description": "Platformer video game aimed at teaching mathematics to elementary school children in a natural and educational manner",
-    "tags": ["gml", "aseprite", "gamemaker studio 2"],
-    "demo": "https://www.pcbcupid.com/"
+    "tags": ["gml", "aseprite", "gamemaker-studio-2"],
+    "demo": "https://i.giphy.com/g01ZnwAUvutuK8GIQn.webp"
   }
 ]

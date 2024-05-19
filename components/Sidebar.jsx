@@ -70,8 +70,12 @@ const Sidebar = () => {
       </div>
       <div className={styles.sidebarBottom}>
         {sidebarBottomItems.map(({ Icon, path }) => (
-          <div className={styles.iconContainer}>
-            <Link href={path} key={path}>
+          <Link href={path} key={path}>
+            <div
+              className={`${styles.iconContainer} ${
+                router.pathname === path && styles.active
+              }`}
+            >
               <Icon
                 fill={
                   router.pathname === path
@@ -80,8 +84,8 @@ const Sidebar = () => {
                 }
                 className={styles.icon}
               />
-            </Link>
-          </div>
+            </div>
+          </Link>
         ))}
       </div>
     </aside>

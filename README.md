@@ -39,7 +39,7 @@ A Visual Studio Code themed developer portfolio website built with Next.js and d
 
 - [ ] Themes and customizations
   - [x] GitHub Dark (default)
-  - [ ] Catppuccin (priority)
+  - [x] Catppuccin (priority)
   - [ ] One Dark Pro
   - [x] Dracula
   - [x] Ayu

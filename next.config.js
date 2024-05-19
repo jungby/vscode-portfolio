@@ -5,7 +5,7 @@ module.exports = {
       'avatars.githubusercontent.com',
       'imgur.com',
       'raw.githubusercontent.com',
-      'hips.hearstapps.com' // TODO
+      'i.giphy.com' // TODO
     ],
   },
 };

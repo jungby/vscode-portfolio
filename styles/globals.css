@@ -38,6 +38,69 @@
   background: rgba(97, 218, 251, 0.25);
 }
 
+.golang {
+  border: 0.1rem solid rgb(0, 167, 208);
+}
+.golang:hover {
+  background: rgb(0, 105, 131);
+}
+
+.azure-services {
+  border: 0.1rem solid rgb(61, 191, 240);
+}
+.azure-services:hover {
+  background: rgb(21, 90, 162);
+}
+
+.mariadb {
+  border: 0.1rem solid rgb(198, 157, 113);
+}
+.mariadb:hover {
+  background: rgb(38, 54, 100);
+}
+
+.java {
+  border: 0.1rem solid rgb(224, 8, 8);
+}
+.java:hover {
+  background: rgb(86, 155, 196);
+}
+
+.android-studio {
+  border: 0.1rem solid rgb(66, 220, 133);
+}
+.android-studio:hover {
+  background: rgb(72, 136, 242);
+}
+
+.django {
+  border: 0.1rem solid rgb(17, 53, 39);
+}
+.django:hover {
+  background: rgb(22, 197, 181);
+}
+
+.gml {
+  border: 0.1rem solid rgb(143, 211, 76);
+}
+.gml:hover {
+  background: rgb(91, 134, 48);
+}
+
+.aseprite {
+  border: 0.1rem solid rgb(255, 255, 255);
+}
+.aseprite:hover {
+  background: rgb(87, 87, 87);
+}
+
+.gamemaker-studio-2 {
+  border: 0.1rem solid rgb(255, 255, 255);
+}
+.gamemaker-studio-2:hover {
+  background: rgb(87, 87, 87);
+}
+
 /*                                         */
 
 

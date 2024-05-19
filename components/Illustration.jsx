@@ -17,7 +17,7 @@ function Illustration(props) {
         213.836C241.842 238.631 275.21 335.628 266.731 342.576C258.253 349.523 182.583 269.188 163.655 245.295C144.728 221.401 73.981 144.715 80.4117 144.715C83.8675 
         144.715 150.196 138.456 210.882 139.304C263.124 140.035 310.446 147.098 318.482 155.546C332.706 170.5 198.729 243.235 183.445 255.322C168.161 267.408 97.4268 
         322.406 85.7124 331.901" 
-        stroke="currentColor" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" transform="scale(0.4) translate(10,140)"
+        stroke="currentColor" strokeOpacity="0.9" strokeWidth="16" strokeLinecap="round" strokeLinejoin="round" transform="scale(0.4) translate(10,140)"
       />
       <path
         fillRule="evenodd"
@@ -28,7 +28,7 @@ function Illustration(props) {
         322.129 247.979 317.222C243.527 312.314 212.356 253.79 204.271 253.79C196.186 253.79 178.108 279.57 174.148 284.216C170.187 288.862 128.921 336.672 114.124 
         338.65C99.3259 340.628 104.105 328.539 114.124 309.534C120.803 296.863 134.107 267.309 154.037 220.87C144.027 216.395 135.15 212.906 127.406 210.401C115.791 206.644 
         79.1085 194.473 73.9807 192.933C68.8528 191.392 84.9287 184.462 96.8396 177.396C108.751 170.331 135.032 160.124 149.953 160.124"
-        stroke="currentColor" stroke-opacity="0.9" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" transform="scale(1.3) translate(10,50)"
+        stroke="currentColor" strokeOpacity="0.9" strokeWidth="12" strokeLinecap="round" strokeLinejoin="round" transform="scale(1.3) translate(10,50)"
       />
     </svg>
   );

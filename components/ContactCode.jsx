@@ -37,18 +37,24 @@ const ContactCode = () => {
   return (
     <div className={styles.code}>
       <p className={styles.line}>
-        <span className={styles.className}>socials </span> = &#123;
+        <span className={styles.codeVariable}>socials </span>
+        <span className={styles.codeOperator}>= </span>
+        <span className={styles.codeBracket}>&#123;</span>
       </p>
       {contactItems.map((item, index) => (
         <p className={styles.line} key={index}>
-          &nbsp;&nbsp;&nbsp;{item.social}:{' '}
-          <a href={item.href} target="_blank" rel="noopener">
+          &nbsp;&nbsp;&nbsp;
+          <span className={styles.codeItem}>{item.social}</span>
+          <span className={styles.codeOperator}>:</span>{' '}
+          <a href={item.href} target="_blank" rel="noopener" className={styles.codeVariable}>
             {item.link}
           </a>
-          {index < contactItems.length - 1 ? ',' : ''}
+          {index < contactItems.length - 1 ? <span className={styles.codeOperator}>,</span> : ''}
         </p>
       ))}
-      <p className={styles.line}>&#125;</p>
+      <p className={styles.line}>
+        <span className={styles.codeBracket}>&#125;</span>
+      </p>
     </div>
   );
 };
