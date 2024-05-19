@@ -1,10 +1,5 @@
 /* @import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css'); */
 
-:root {
-  --accent-button: var(--main-bg);
-  --code-textcolor: var(--accent-color);
-}
-
 /* GitHub Dark */
 [data-theme='github-dark'] {
   --main-bg: #24292e;
@@ -34,8 +29,7 @@
 /* Catpuccin */
 /* Catppuccin Mocha */
 
-/* :root { */
-[data-theme='catppuccin-mocha'] {
+:root {
   --rosewater: #f5e0dc;
   --flamingo: #f2cdcd;
   --pink: #f5c2e7;
