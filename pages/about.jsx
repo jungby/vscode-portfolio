@@ -52,7 +52,7 @@ const AboutPage = () => {
         <h4><b>Related</b></h4>
           <ul>
             <li>I placed third overall among top engineering students in seminar classes for creating an educational 2D platformer game for elementary school students (2021).</li>
-            <li>Achieved the highest score across all Huawei-provided course tests and quizzes in the Seed for the Future program (2021) and made it to .</li>
+            <li>Achieved the highest score across all Huawei-provided course tests and quizzes in the Seed for the Future program (2021) and made it to Forbes Colombia.</li>
             <li>Secured second place in the national final of the Huawei ICT competition (2023) in the computing category, competing against top talent from across the country.</li>
             <li>Reached the regional finals of the same competition the following year (2024), competing against top talent across Latin America.</li>
           </ul>
