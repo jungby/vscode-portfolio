@@ -32,7 +32,7 @@ const ProjectCard = ({ project }) => {
             rel="noopener noreferrer"
             className={styles.underline}
           >
-            Demo
+            No Demo (yet)
           </a>
         </div>
       </div>
