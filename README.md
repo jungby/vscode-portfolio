@@ -4,7 +4,7 @@ A Visual Studio Code themed developer portfolio website built with Next.js and d
 <!-- cambiar -->
 ![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
 
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/jungby/vscode-portfolio) [![twitter](https://img.shields.io/twitter/follow/meowrasic)](https://discordapp.com/users/252573416165474305)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/jungby/vscode-portfolio)
 
 
 <!-- TABLE OF CONTENTS -->
