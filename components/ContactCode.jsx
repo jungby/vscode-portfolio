@@ -7,6 +7,11 @@ const contactItems = [
   //   href: 'mailto:EMAILUSER@gmail.com',
   // },
   {
+    social: '"linkedin"',
+    link: 'laurarodriguezo',
+    href: 'https://www.linkedin.com/in/laurarodriguezo/',
+  },
+  {
     social: '"github"',
     link: 'jungby',
     href: 'https://github.com/jungby',
@@ -16,20 +21,10 @@ const contactItems = [
     link: 'jungby',
     href: 'https://medium.com/@jungby',
   },
-  {
-    social: '"twitter"',
-    link: 'meowrasic',
-    href: 'https://www.twitter.com/meowrasic',
-  },
   // {
   //   social: '"instagram"',
   //   link: 'INSTAUSER',
   //   href: 'https://www.instagram.com/INSTAUSER/',
-  // },
-  // {
-  //   social: '"linkedin"',
-  //   link: 'LINKEDINUSER',
-  //   href: 'https://www.linkedin.com/in/LINKEDINUSER/',
   // },
 ];
 
