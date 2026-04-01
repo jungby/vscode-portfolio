@@ -19,7 +19,7 @@ const SpotifyWidget = () => {
   return (
     <a href="https://open.spotify.com/user/lauraequisde" target="_blank" rel="noopener noreferrer">
       <img
-        src="https://novatorem-rust-xi.vercel.app/api/spotify"
+        src="https://novatorem-rust-xi.vercel.app/api/orchestrator"
         alt="Spotify"
         style={{ width: '40%', height: '10%' }}
       />
